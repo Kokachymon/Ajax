@@ -67,7 +67,10 @@ python3 bot.py
 </pre>
 </p>
 </details>
+# Deploy to railway
 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/C_s1AU?referralCode=Hs3rFk)
 
 ## Commands
 ```
